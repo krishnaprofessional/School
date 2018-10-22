@@ -22,11 +22,17 @@ School-App: School App is a website which has all the data of one school. The Sc
 4. Create class: -> User can be able to create a new class. -> Created class will appear on Classes component.
 
 Configuration:
+
   1.Open the Terminal/ Command Prompt.
+  
   2.Go-to project directory.
+  
   3.cd school.
+  
   4.Run "npm install".
+  
   5.Run "npm start".
+  
   6.and it automatically Opens local "http://localhost:3000/"
   
 Technologies Used: React.js, Redux, Reducer, bootstrap,local-Storage, Html5, Css.
