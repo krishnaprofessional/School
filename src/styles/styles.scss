@@ -1,0 +1,193 @@
+html,body, #app {
+  height: 100%;
+}
+#bck{
+  height: 100%; 
+  width: 100%;
+  background: url("/img/bg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+#bck0{
+  background-color: #47484A ;
+  height: 3%; 
+  width: 100%;
+}
+#bck1{
+  background-color: #47484A ;
+}
+
+#logo{
+  background: url("/img/logo.png");
+  background-repeat: no-repeat;
+  opacity: 0.8;
+  height: 40px;
+  width: 283px;
+  margin-left: 5%;
+}
+
+
+#header{
+  color:orange;
+  margin-left: 150px;
+}
+#para{
+  color: #000;
+  margin-left: 150px;
+  font-size: 20px;
+}
+#main{
+  padding: 10px;
+  background-color: #47484A ;
+  box-shadow: 7px 7px 7px #C9C9C9 ;
+}
+#header{
+  color:orange;
+}
+
+#sub_header{
+  color: #fff;
+  font-size: 20px;
+  padding-left: 180px;
+}
+
+.alt-list{
+
+  padding: 4%;
+  padding-bottom: 0px;
+  text-align: center;
+  list-style-type:none;
+}
+.alt-list1{
+
+  list-style-type:none;
+}
+.box{
+  font-size: 25px;
+  width: 300px;
+  box-shadow: 4px 2px 2px 2px #C9C9C9 ;
+  padding: 20px;
+  margin-left: 20%;
+  margin-bottom: 30px;
+  background-color: #f8f8f8;
+  
+}
+.box1{
+  font-size: 25px;
+  padding: 20px;
+  margin-bottom: 5px;
+  
+ 
+}
+#box2{
+  width: 100%;
+  height: 680px;
+  background-color: #f8f8f8;
+  box-shadow: 4px 2px 2px 2px #C9C9C9 ;
+  margin-left: 50%;
+  margin-top:5%;
+  padding: 5%;
+  text-align: center;
+  opacity: 0.9;
+  
+}
+
+.third_page{
+  margin-left: 25%;
+  padding-top:5%;
+}
+#fourth_page{
+  margin-left: 30%;
+  margin-top: 15%;
+}
+#textboxid
+{
+    height:40px;
+    font-size:14pt;
+}
+
+#textboxid
+{
+ margin-top: 30px;
+}
+
+#list{
+  margin-top: 5%;
+}
+
+.test {
+  height: 30px;
+  background-color: powderblue;
+  margin-top: 5%;
+  width: 70%;
+}
+
+.add-dropdown {
+  height: 30px;
+  background-color: powderblue;
+  margin-top: 5%;
+}
+
+.classname {
+  cursor: pointer;
+}
+
+.remove-btn {
+  border-radius: 50px;
+  font-size: 14px;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.list1{
+  font-size: 20px;
+margin-left:25%;
+}
+
+.class-font-style {
+  font-size: 25px;
+  color: #000;
+}
+
+.class-students {
+  height: 300px;
+  box-shadow: 8px 2px 2px 8px #C9C9C9 ;
+  margin-top: 50px;
+}
+
+.assign-btn {
+  width: 50%;
+  margin-top: 5%;
+  margin-bottom: 10px;
+}
+
+.add-student-btn {
+  margin-top: 5%;
+  margin-bottom: 30px;
+}
+
+.error-message{
+  color: red;
+  text-align: center;
+}
+.alt-list{
+  margin-left: 15%;
+  padding: 4%;
+  text-align: center;
+  list-style-type:none;
+}
+.remove{
+  background-color: aqua;
+  border-radius: 20%;
+  margin-left:15px;
+  padding-bottom:15px;
+  height: 40px;
+}
